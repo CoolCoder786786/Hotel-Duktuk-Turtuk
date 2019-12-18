@@ -8,6 +8,11 @@
 
 
 
+FEATURES OF HOTEL
+
+
+
+
 #Property amenities
 *Free parking
 *Free breakfast
